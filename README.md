@@ -22,6 +22,9 @@ Core Strengths:
 Data Cleaning & Manipulation | Visualization | Stakeholder Communication | Customer Segmentation | Storytelling with Data | Analytical Thinking
 
 ---
+Each project folder includes:
+
+A README file detailing the objectives, dataset overview, tools used, and key insights
 
 ## 📂 Projects by Tool
 
