@@ -1,6 +1,6 @@
 # Adepeju Adigun | Data Analyst Portfolio
 
-👋🏾 Hi, I'm PJ — a passionate and empathetic data analyst dedicated to using insights to tell meaningful stories.  
+👋🏾 Hi, I'm PJ, a passionate and empathetic data analyst dedicated to using insights to tell meaningful stories.  
 With a background in customer service, digital marketing, and immersive analytics training, as well as technical skills and human understanding into every project.  
 I'm especially passionate about work that contributes to inclusive spaces, innovation, and people-focused outcomes.
 
@@ -32,8 +32,12 @@ Data Cleaning & Manipulation | Visualization | Stakeholder Communication | Custo
 - Sales Performance Dashboard 
   Created a dashboard showing sales trends and KPIs. Identified key sales drivers and presented growth opportunities.
 
-- **Diversity & Inclusion Dashboard** *(Coming Soon)*  
-  Visualize metrics related to gender, race, and inclusivity in the workplace.
+- RFM Customer Segmentation Analysis
+  Used RFM segmentation, revenue, and customer count to provide strategic recommendations.
+
+- Customer Retention Analysis
+
+- Call Centre Report
 
 ### 🧮 Excel
 - [Accenture Social Media Simulation]([url](https://1drv.ms/p/c/aef26412aedbc19b/ETsC5SMPAWNAle3gtT23uJoBVHKexAS_iaV0vV5HfxhsxQ?e=nj1BB4))  
