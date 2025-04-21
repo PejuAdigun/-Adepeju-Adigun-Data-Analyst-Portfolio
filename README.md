@@ -5,11 +5,18 @@ With a background in customer service, digital marketing, and immersive analytic
 I'm especially passionate about work that contributes to inclusive spaces, innovation, and people-focused outcomes.
 
 ---
+Welcome to my data analytics project portfolio! This repository showcases a collection of projects that demonstrate my ability to clean, analyse, and visualise data using tools such as Excel, Google BigQuery, SQL, Python and Power BI. Each project is designed to answer specific business questions, uncover insights, and support data-driven decision-making.
 
-## 🧰 Tools & Skills
+🛠 Tools & Technologies
+Excel – Data cleaning, aggregation, and pivot analysis
 
-Languages & Tools:  
-SQL | Python (Pandas, Numpy, Matplotlib) | Power BI | Excel | BigQuery | Jupyter Notebooks | Google Sheets
+SQL (BigQuery) – Querying large datasets, data transformation, performance optimization
+
+Google BigQuery – Cloud-based data warehousing and analysis at scale
+
+Power BI – Interactive dashboard creation and data visualization
+
+Python -  (Pandas, Numpy, Matplotlib) | Jupyter Notebooks 
 
 Core Strengths: 
 Data Cleaning & Manipulation | Visualization | Stakeholder Communication | Customer Segmentation | Storytelling with Data | Analytical Thinking
