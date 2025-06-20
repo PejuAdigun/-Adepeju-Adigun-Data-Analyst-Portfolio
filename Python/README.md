@@ -1,4 +1,4 @@
-Netflix Movies and TV Shows Analysis ????
+Netflix Movies and TV Shows Analysis 
 
 This project explores the global Netflix catalogue, analysing key trends in content types, release patterns, and country-level production. Using Python, I performed data cleaning, exploratory data analysis (EDA), text analysis, and data visualisation to discover insights from the Netflix dataset.
 
@@ -31,8 +31,8 @@ This project explores the global Netflix catalogue, analysing key trends in cont
   Key Insights
 
 - Netflix has significantly ramped up content production post-2014.
-- Most content comes from the United States, followed by India and the UK.
-- "International Movies", "Dramas" and �Comedies� are among the top genres.
+- Most content comes from the United States, India, and the UK.
+- "International Movies", "Dramas", and "Comedies" are among the top genres.
 - Word cloud analysis reveals storytelling themes around love, family, and life.
 
 What I Learned
@@ -50,7 +50,7 @@ Challenges & Solutions
 | Null values in key columns | Dropped or filled based on context |
 | Overwhelming initial dataset | Broke tasks into small exploratory questions |
 
- ?? Dataset
+ Dataset
 
 Publicly available Netflix dataset from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
 
