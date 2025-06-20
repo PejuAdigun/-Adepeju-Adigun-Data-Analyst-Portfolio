@@ -26,16 +26,12 @@ Each project folder includes:
 
 A README file detailing the objectives, dataset overview, tools used, and key insights
 
-## 📂 Projects by Tool
+📂 Projects by Tool
 
-### 🐍 Python
-- **Credit Risk Prediction Model** *(Coming Soon)*  
-  Use historical data to predict default risk for loan applicants.
+ 🐍 Python
 
-- **Customer Churn Prediction** *(Coming Soon)*  
-  Analyze churn trends and simulate the impact of different retention strategies.
 
-### 📊 Power BI
+ 📊 Power BI
 - Prism Health KPI Dashboard
   Developed a Power BI dashboard to monitor key health metrics such as conversion rates, retention, and refund rates.
 
@@ -49,14 +45,14 @@ A README file detailing the objectives, dataset overview, tools used, and key in
 
 - Call Centre Report
 
-### 🧮 Excel
+ 🧮 Excel
 - [Accenture Social Media Simulation]([url](https://1drv.ms/p/c/aef26412aedbc19b/ETsC5SMPAWNAle3gtT23uJoBVHKexAS_iaV0vV5HfxhsxQ?e=nj1BB4))  
   Cleaned and modeled datasets to identify content performance trends for a social media client. Delivered a data-backed strategy presentation.
 
 - **Sales Forecasting with Excel** *(Coming Soon)*  
   Use time series data to project future sales performance.
 
-### 🧠 SQL
+ 🧠 SQL
 - [Customer Insights Presentation]([url](https://onedrive.live.com/:p:/g/personal/AEF26412AEDBC19B/EUYnyhFHTFJFlrl_A29iVDIBn2ReWCp53KgXiwTY1CLo1g?resid=AEF26412AEDBC19B!s11ca27464c47455296b97f036f625432&ithint=file%2Cpptx&e=iKcRkf&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9hZWYyNjQxMmFlZGJjMTliL0VVWW55aEZIVEZKRmxybF9BMjlpVkRJQm4yUmVXQ3A1M0tnWGl3VFkxQ0xvMWc_ZT1pS2NSa2Y))  
   Used RFM segmentation, revenue, and customer count to provide strategic recommendations.
 
@@ -66,7 +62,7 @@ A README file detailing the objectives, dataset overview, tools used, and key in
 - **Product Performance Report** *(Coming Soon)*  
   Combine SQL queries and Excel for an end-to-end product analysis pipeline.
 
-### 🌐 BigQuery
+ 🌐 BigQuery
 - [Marketing Analytics for Prism]([url](https://onedrive.live.com/:p:/g/personal/AEF26412AEDBC19B/EVM94h66FYtDhwX0FmEAmCoBP-smKwKotxSLfhcEb0i7bA?resid=AEF26412AEDBC19B!s1ee23d5315ba438b8705f4166100982a&ithint=file%2Cpptx&e=kHPYzc&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9hZWYyNjQxMmFlZGJjMTliL0VWTTk0aDY2Rll0RGh3WDBGbUVBbUNvQlAtc21Ld0tvdHhTTGZoY0ViMGk3YkE_ZT1rSFBZemM))*  
   Used BigQuery to process large datasets on traffic, funnel events, and transactions.
 
@@ -75,7 +71,7 @@ A README file detailing the objectives, dataset overview, tools used, and key in
 
 ---
 
-## 📬 Contact
+ 📬 Contact
 
 📧 Email: adigun.peju@yahoo.com  
 📍 Location: London, UK (Open to Remote | Hybrid | Relocate)  
